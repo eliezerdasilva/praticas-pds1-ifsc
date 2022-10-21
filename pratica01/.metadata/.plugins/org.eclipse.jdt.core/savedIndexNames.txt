@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Eliezer\OneDrive\Documentos\repositorio gitkraken\praticas-pds1-ifsc\pratica01\.metadata\.plugins\org.eclipse.jdt.core
