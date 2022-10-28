@@ -1,3 +1,3 @@
-Prática em desenvolvimento de sistema .
+# praticas-pds1-ifsc
 
-IFSC
+Práticas de programação em Java da UC de Práticas em Desenvolvimento de Sistemas I (2022.2) no IFSC Gaspar
